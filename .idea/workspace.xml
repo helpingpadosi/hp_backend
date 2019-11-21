@@ -2,55 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/DataSourceConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/RedisMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/SiteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/ClientException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/ClientNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/DataUploadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/DuplicateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/ExceptionsType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/HttpClientBadRequestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/HttpClientException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/HttpClientForbiddenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/HttpClientNotAuthorizedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/HttpClientNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/HttpServerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/ImageNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/IndexingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/NoSiteCodeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/ResourceNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/UnAuthorizedAccessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/UserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/WebExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/ApiError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/ApiResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/BodyWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/ClientErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/FieldError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/GetCategoryRequestBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util/DbContextHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util/LoggerUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util/RoutingDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_1_4_199.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserCredit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserFavPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserPrivacy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/PostRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/HobbyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/MediaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/ErrorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/VargRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../user/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/KhiladiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/UserApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/KhiladiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Khiladi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/LoginType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/LoginType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/KhiladiRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/KhiladiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../post/.gradle/" />
     <ignored path="$PROJECT_DIR$/../post/build/" />
@@ -93,47 +61,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+            <state relative-caret-position="115">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/Post.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostMedia.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/UserApplication.java">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserPrivacy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="13" selection-end-column="51" />
               <folding>
-                <element signature="e#858#859#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/LoginType.java">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserLocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserCredit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -142,10 +104,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../user/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserFavPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserMedia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostMedia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,8 +177,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -164,26 +186,21 @@
     <findStrings>
       <find>sawaal</find>
       <find>varg</find>
+      <find>Category</find>
     </findStrings>
     <replaceStrings>
       <replace>Post</replace>
       <replace>post</replace>
       <replace>category</replace>
+      <replace>User</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../post" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../user" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/pojo/SawaalRequestBody.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/resources/application-prd.yml" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepository.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/application-local.yml" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/application-prd.yml" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/clients/dto/CategoryServiceResponse.java" />
         <option value="$PROJECT_DIR$/../post/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/clients/CategoryClient.java" />
@@ -210,7 +227,6 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ParamTypeRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ParamNameRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java" />
-        <option value="$PROJECT_DIR$/../user/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../user/build.gradle" />
         <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/SecurityConfiguration.java" />
         <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/ClientErrorResponse.java" />
@@ -221,8 +237,21 @@
         <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/exception/WebExceptionHandler.java" />
         <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/UserApplication.java" />
         <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/LoginType.java" />
-        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserContact.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserFavPost.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/ErrorService.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/PostRequestBody.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/HobbyRepository.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/MediaRepository.java" />
         <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserMedia.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserPrivacy.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserLocation.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" />
+        <option value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserCredit.java" />
       </list>
     </option>
   </component>
@@ -254,7 +283,57 @@
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
@@ -290,6 +369,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
@@ -300,6 +389,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="post" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
@@ -372,6 +481,16 @@
               <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -404,13 +523,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574347307855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574359972927" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hp.user.service" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../user/src/main/java/com/hp/user" />
       <recent name="$PROJECT_DIR$/../user/src/main/resources" />
@@ -518,14 +640,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574345659485</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change">
+      <created>1574347358204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574347358204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -538,7 +667,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32956153" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.38755304" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.4002829" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -565,154 +694,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/ParamType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/ParamTypeValidation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ValidationRuleRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ParamValueRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ParamTypeValidationRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ParamTypeRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/ParamNameRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/ValidationRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/SecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/RedisMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/ApplicationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/ClientErrorResponse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/util/RoutingDataSource.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/ApiError.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -781,27 +762,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -835,20 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/LoginType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -856,24 +806,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/Post.java">
+    <entry file="file://$PROJECT_DIR$/../category/.github/workflows/gradle.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserContact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/LoginType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        <state relative-caret-position="210">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/ErrorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="123" lean-forward="true" selection-start-line="17" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="123" lean-forward="true" selection-start-line="17" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/pojo/PostRequestBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/Post.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/MediaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/HobbyRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/controller/PostController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="99" column="32" lean-forward="true" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/PostService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="95" column="31" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="174">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserMedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/PostRequestBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -882,8 +954,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostMedia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.8/1aa07070912b2caee846638641606f3b2f1f440a/lombok-1.18.8-sources.jar!/lombok/ToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserPrivacy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserFavPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserCredit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="29" />
         </state>
       </provider>
     </entry>
