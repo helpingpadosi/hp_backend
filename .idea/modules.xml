@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.category.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.media.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.media.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.media.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.media.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.media.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.post.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.post.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.post.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.post.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.post.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.user.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" />
+    </modules>
+  </component>
+</project>
