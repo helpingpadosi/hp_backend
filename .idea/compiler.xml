@@ -11,8 +11,8 @@
       <module name="com.hp.media.test" target="1.8" />
       <module name="com.hp.post.main" target="1.8" />
       <module name="com.hp.post.test" target="1.8" />
-      <module name="com.hp.user.main" target="11" />
-      <module name="com.hp.user.test" target="11" />
+      <module name="com.hp.user.main" target="1.8" />
+      <module name="com.hp.user.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
