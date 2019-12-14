@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.plugin:spring-plugin-metadata:2.0.0.M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-metadata/2.0.0.M1/f22f170a49846ee6cdda2d1cfccd5f922d4ce32e/spring-plugin-metadata-2.0.0.M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-metadata/2.0.0.M1/99a1abac48aadefaa9a692de01d3de4954f40d1a/spring-plugin-metadata-2.0.0.M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
