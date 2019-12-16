@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud.sql:mysql-socket-factory-connector-j-8:1.0.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud.sql/mysql-socket-factory-connector-j-8/1.0.15/9e6ec86935cbd7cc97495b7fee5ebc5cf572a0c3/mysql-socket-factory-connector-j-8-1.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud.sql/mysql-socket-factory-connector-j-8/1.0.15/e762f0d9bb233f1c149904d7124ecd399224ff91/mysql-socket-factory-connector-j-8-1.0.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
