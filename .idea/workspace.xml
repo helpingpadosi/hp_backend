@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryTreeDoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeIndexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeSearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/CloudSQLConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/CategoryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/SearchResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryDoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTreeDataRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTreeDataRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../post/.gradle/" />
     <ignored path="$PROJECT_DIR$/../post/build/" />
@@ -68,54 +53,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="66" />
-              <folding>
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="109" column="89" selection-start-line="109" selection-start-column="89" selection-end-line="109" selection-end-column="89" />
+            <state relative-caret-position="842">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeSearchService.java">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="116" column="73" lean-forward="true" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
+            <state relative-caret-position="169">
+              <caret line="48" column="79" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/SearchResult.java">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/CloudSQLConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="49">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="38" />
               <folding>
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#847#848#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,14 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryValidationRuleController.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryValidationRuleRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamTypeRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFormFieldTypeRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../category/Dockerfile" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/src/main/resources/entrypoint.sh" />
         <option value="$PROJECT_DIR$/../category/build/libs/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisConfig.java" />
@@ -204,25 +157,33 @@
         <option value="$PROJECT_DIR$/../category/build.gradle" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryIndexService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/util/MapperUtil.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryDoc.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryTreeDoc.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTreeDataRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeData.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeIndexService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategorySearchService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/SearchResult.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeSearchService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryTreeDoc.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/CategoryTreeDataCacheKey.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/CloudSQLConfiguration.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
       </list>
     </option>
   </component>
@@ -238,6 +199,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="com.hp.user" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="com.hp.user.main" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,58 +281,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="jobs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
@@ -416,33 +348,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="com.hp.user" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="com.hp.user.main" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576417501934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576510048303" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -730,14 +640,28 @@
       <option name="project" value="LOCAL" />
       <updated>1576410740592</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="elastic search - category tree">
+      <created>1576417538776</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576417538776</updated>
+    </task>
+    <task id="LOCAL-00027" summary="elastic search - category tree">
+      <created>1576431179896</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1576431179896</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32956383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34006462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -750,17 +674,17 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.18953323" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.1513437" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.24752475" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28712872" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28712872" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Console" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.17114569" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.23762377" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -776,7 +700,8 @@
     <MESSAGE value="change" />
     <MESSAGE value="elastic search configuration" />
     <MESSAGE value="elastic search - category" />
-    <option name="LAST_COMMIT_MESSAGE" value="elastic search - category" />
+    <MESSAGE value="elastic search - category tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="elastic search - category tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,127 +716,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../category/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RestTemplateConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.2.0.RC1/10eebfda26966294b8a6cde56686c507ba806a29/spring-beans-5.2.0.RC1-sources.jar!/org/springframework/beans/factory/config/AbstractFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-904">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ApplicationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RestTemplateConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="36" selection-start-line="36" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/util/Serializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/PostApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="72" selection-start-line="72" selection-end-line="74" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/Post.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/jobs/ScheduledTasks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="43" column="88" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.8.2/dcdf237e8593193f4dad6c66bf8f9ef953077867/elasticsearch-6.8.2-sources.jar!/org/elasticsearch/search/builder/SearchSourceBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="514" column="29" selection-start-line="514" selection-start-column="24" selection-end-line="514" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.8.2/dcdf237e8593193f4dad6c66bf8f9ef953077867/elasticsearch-6.8.2-sources.jar!/org/elasticsearch/index/query/QueryBuilders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="252" column="39" selection-start-line="252" selection-start-column="39" selection-end-line="252" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.8.2/dcdf237e8593193f4dad6c66bf8f9ef953077867/elasticsearch-6.8.2-sources.jar!/org/elasticsearch/action/search/SearchRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
@@ -951,47 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="58" column="106" selection-start-line="58" selection-start-column="106" selection-end-line="58" selection-end-column="106" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-          <folding>
-            <element signature="e#3800#3801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryFilterController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="30" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1002,23 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTreeDataRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryTreeDoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1026,75 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/CategoryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-249">
-          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="173" column="81" selection-start-line="173" selection-start-column="81" selection-end-line="173" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ApplicationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeIndexService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="926">
-          <caret line="89" column="40" lean-forward="true" selection-start-line="89" selection-start-column="40" selection-end-line="89" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/CategoryTree.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.8.2/dcdf237e8593193f4dad6c66bf8f9ef953077867/elasticsearch-6.8.2-sources.jar!/org/elasticsearch/index/query/BoolQueryBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102">
@@ -1109,40 +791,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryIndexService.java">
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryDoc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategorySearchService.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/elasticsearch-rest-high-level-client/6.8.2/e76afcc409b737277d1b8124d90b97be331fca9b/elasticsearch-rest-high-level-client-6.8.2-sources.jar!/org/elasticsearch/client/RestHighLevelClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-560">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="66" />
-          <folding>
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1121">
+          <caret line="1090" column="32" selection-start-line="1090" selection-start-column="32" selection-end-line="1090" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/SearchResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="617">
           <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
           <folding>
             <element signature="e#213#214#0" expanded="true" />
@@ -1161,34 +829,296 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryDoc.java">
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeIndexService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="427">
+          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.2.0.RC1/207bbc3bd3e87b3b6e53465cab4e7a981718cf9b/spring-core-5.2.0.RC1-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="109" column="89" selection-start-line="109" selection-start-column="89" selection-end-line="109" selection-end-column="89" />
+        <state relative-caret-position="132">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/elasticsearch-rest-high-level-client/6.8.2/e76afcc409b737277d1b8124d90b97be331fca9b/elasticsearch-rest-high-level-client-6.8.2-sources.jar!/org/elasticsearch/client/RestHighLevelClient.java">
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryTreeDoc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1121">
-          <caret line="1090" column="32" selection-start-line="1090" selection-start-column="32" selection-end-line="1090" selection-end-column="32" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/resources/application-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="64" selection-start-line="64" selection-end-line="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeSearchService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="116" column="73" lean-forward="true" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
+        <state relative-caret-position="548">
+          <caret line="112" column="64" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryIndexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="87" column="55" lean-forward="true" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/CategoryTreeDataCacheKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryFormFieldType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/TranslationService.java" />
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryValidationRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.2.0.RC2/da7d67901cbf044b663fa2c19151565cde5b39b9/spring-data-commons-2.2.0.RC2-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategorySearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ApplicationCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#836#837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamTypeValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamTypeValidationRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="169" column="35" lean-forward="true" selection-start-line="169" selection-start-column="35" selection-end-line="169" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="67" column="88" selection-start-line="67" selection-start-column="88" selection-end-line="67" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1524">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="e#1299#1300#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTreeDataRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="49" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/CloudSQLConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="48" column="79" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="79" />
         </state>
       </provider>
     </entry>
