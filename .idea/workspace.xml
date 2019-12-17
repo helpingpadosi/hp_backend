@@ -4,10 +4,6 @@
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../category/script_deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../category/script_deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/PubSubConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/PubSubConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/BodyWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/BodyWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/resources/static/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../post/.gradle/" />
     <ignored path="$PROJECT_DIR$/../post/build/" />
@@ -68,43 +64,7 @@
         <entry file="file://$PROJECT_DIR$/../category/script_deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/PubSubConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/PubSubController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -192,7 +152,6 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/CloudSQLConfiguration.java" />
-        <option value="$PROJECT_DIR$/../category/build/libs/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/SiteData.java" />
@@ -211,6 +170,7 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/BodyWrapper.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/PubSubConfig.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/../category/build/libs/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/script_deploy.sh" />
       </list>
     </option>
@@ -261,6 +221,19 @@
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
@@ -327,7 +300,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576597767475" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576598815747" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -671,11 +644,19 @@
       <option name="project" value="LOCAL" />
       <updated>1576535753903</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="elastic search - category tree">
+      <created>1576598022153</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1576598022153</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34006462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -696,11 +677,11 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28854313" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.5841584" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.1824611" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" visible="true" weight="0.1824611" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -979,13 +960,6 @@
     <entry file="file://$PROJECT_DIR$/../category/src/main/resources/entrypoint.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/build/libs/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1120,10 +1094,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../category/build/libs/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../category/script_deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
         </state>
       </provider>
     </entry>
