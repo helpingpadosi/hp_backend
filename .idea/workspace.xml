@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/script_deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../category/script_deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../category/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../category/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../post/.gradle/" />
     <ignored path="$PROJECT_DIR$/../post/build/" />
@@ -60,11 +61,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="81" column="12" lean-forward="true" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../category/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../category/script_deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+            <state relative-caret-position="60">
+              <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -152,13 +174,11 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/CloudSQLConfiguration.java" />
-        <option value="$PROJECT_DIR$/../category/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/SiteData.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ApplicationConfig.java" />
         <option value="$PROJECT_DIR$/../category/script_deply.sh" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/util/Publisher.java" />
         <option value="$PROJECT_DIR$/../category/build.gradle" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/util/PublisherUtil.java" />
@@ -172,6 +192,8 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
         <option value="$PROJECT_DIR$/../category/build/libs/Dockerfile" />
         <option value="$PROJECT_DIR$/../category/script_deploy.sh" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
+        <option value="$PROJECT_DIR$/../category/Dockerfile" />
       </list>
     </option>
   </component>
@@ -226,19 +248,6 @@
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,7 +282,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
@@ -300,7 +309,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576598815747" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576604890626" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -651,12 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576598022153</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="elastic search - category tree">
+      <created>1576598895833</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1576598895833</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34006462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -677,11 +692,11 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.5841584" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" visible="true" weight="0.52899575" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" visible="true" weight="0.1824611" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" weight="0.1824611" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -967,13 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -1019,16 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="84" column="56" lean-forward="true" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,13 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/build/libs/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -1103,8 +1094,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../category/script_deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        <state relative-caret-position="60">
+          <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="12" lean-forward="true" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
