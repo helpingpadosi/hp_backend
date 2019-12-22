@@ -2,68 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_context_1_19_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_api_common_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_gax_1_45_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_gax_grpc_1_45_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_grpc_grpc_google_cloud_pubsub_v1_1_60_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_grpc_proto_google_cloud_pubsub_v1_1_60_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_grpc_proto_google_common_protos_1_16_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_grpc_proto_google_iam_v1_0_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_cloud_google_cloud_core_1_78_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_cloud_google_cloud_core_grpc_1_78_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_cloud_google_cloud_pubsub_1_78_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_util_3_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_alts_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_api_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_auth_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_context_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_core_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_grpclb_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_netty_shaded_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_protobuf_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_protobuf_lite_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_stub_1_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opencensus_opencensus_contrib_grpc_metrics_0_21_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_gcp_autoconfigure_1_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_gcp_core_1_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_gcp_pubsub_1_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_gcp_starter_1_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_gcp_starter_pubsub_1_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_threeten_threetenbp_1_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../category/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/script_deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../category/script_deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/PubSubConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/PubSubConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/PubSubController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/PubSubController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/jobs/ScheduledTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/SearchResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/SearchResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryIndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryIndexService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategorySearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategorySearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeIndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeIndexService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/elasticsearch/CategoryTreeSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/util/PublisherUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/util/PublisherUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../post/.gradle/" />
     <ignored path="$PROJECT_DIR$/../post/build/" />
@@ -111,11 +54,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../category/script_deploy.sh">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="145">
+              <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -191,7 +155,6 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParameterRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueMappingRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/SiteData.java" />
@@ -216,14 +179,15 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisConfig.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
         <option value="$PROJECT_DIR$/../category/script_deploy.sh" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
       </list>
     </option>
   </component>
@@ -345,29 +309,6 @@
               <item name="category" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -377,8 +318,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577009716168" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577011810345" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -784,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577003716494</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="elastic search - category tree">
+      <created>1577009723930</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1577009723930</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -809,11 +757,11 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.56435645" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.26874116" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" visible="true" weight="0.17963225" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" visible="true" weight="0.55304104" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -847,44 +795,10 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/IndexService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/jobs/ScheduledTasks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/PostApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RestTemplateConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -903,13 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1089,13 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParameterRepo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1155,27 +1055,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="996">
-          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="135" column="23" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1186,37 +1069,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1231,6 +1087,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryAllParamResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="205" column="87" selection-start-line="205" selection-start-column="87" selection-end-line="205" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="100" lean-forward="true" selection-start-line="22" selection-start-column="100" selection-end-line="22" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1348">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#12228#12229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1286,7 +1228,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>main|post|hp</last-edited>
+          <last-edited>test|category|hp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
