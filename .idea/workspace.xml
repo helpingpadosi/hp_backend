@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamTypeValidationRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamTypeValidationRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueMappingRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueMappingRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" afterDir="false" />
     </list>
@@ -59,8 +54,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="114" column="101" selection-start-line="114" selection-start-column="101" selection-end-line="114" selection-end-column="101" />
+            <state relative-caret-position="463">
+              <caret line="402" selection-start-line="402" selection-end-line="403" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1914">
+              <caret line="221" column="133" selection-start-line="221" selection-start-column="133" selection-end-line="221" selection-end-column="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -68,47 +90,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueMappingRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+            <state relative-caret-position="180">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamValueMapping.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -247,13 +239,13 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamTypeValidationRepo.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueMappingRepo.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" />
+        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" />
       </list>
     </option>
   </component>
@@ -497,13 +489,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574337673692</updated>
-    </task>
-    <task id="LOCAL-00009" summary="change">
-      <created>1575721179243</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1575721179243</updated>
     </task>
     <task id="LOCAL-00010" summary="change">
       <created>1575894244062</created>
@@ -841,7 +826,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577197510158</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="elastic search - category tree">
+      <created>1577272770764</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1577272770765</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -860,17 +852,17 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.27015558" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.6350778" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.18670438" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3380481" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.31117398" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" visible="true" weight="0.31117398" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Console" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" weight="0.13861386" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" weight="0.261669" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -900,7 +892,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java</url>
-          <line>231</line>
+          <line>230</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -1168,20 +1160,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="59" column="38" lean-forward="true" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1200,13 +1178,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -1269,24 +1240,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamValueMapping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="114" column="101" selection-start-line="114" selection-start-column="101" selection-end-line="114" selection-end-column="101" />
+        <state relative-caret-position="120">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamValueMappingRepo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+        <state relative-caret-position="180">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamValueMapping.java">
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParamMappingRepo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryFilterMappingRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="402" selection-start-line="402" selection-end-line="403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="221" column="133" selection-start-line="221" selection-start-column="133" selection-end-line="221" selection-end-column="133" />
         </state>
       </provider>
     </entry>
