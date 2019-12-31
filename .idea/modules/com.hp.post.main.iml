@@ -21,8 +21,8 @@
     <orderEntry type="library" name="Gradle: io.opencensus:opencensus-contrib-http-util:0.21.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:28.1-jre" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.2.0.M5" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.boot:spring-boot-devtools:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:2.2.0.M5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.boot:spring-boot-devtools:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-jdbc:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-redis:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.2.0.M5" level="project" />
@@ -58,8 +58,8 @@
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-actuator-autoconfigure:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: io.micrometer:micrometer-core:1.2.0" level="project" />
     <orderEntry type="library" name="Gradle: org.hibernate:hibernate-core:5.4.4.Final" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: org.glassfish.jaxb:jaxb-runtime:2.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.2.0.M5" level="project" />
     <orderEntry type="library" name="Gradle: org.jvnet.staxex:stax-ex:1.8.1" level="project" />
     <orderEntry type="library" name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2" level="project" />
     <orderEntry type="library" name="Gradle: com.sun.istack:istack-commons-runtime:3.0.8" level="project" />
@@ -202,8 +202,8 @@
     <orderEntry type="library" name="Gradle: com.github.spullara.mustache.java:compiler:0.9.3" level="project" />
     <orderEntry type="library" name="Gradle: org.glassfish.jaxb:txw2:2.3.2" level="project" />
     <orderEntry type="library" name="Gradle: com.sun.xml.fastinfoset:FastInfoset:1.2.16" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:5.2.0.RC1" level="project" />
     <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:5.2.0.RC1" level="project" />
     <orderEntry type="library" name="Gradle: org.atteo:evo-inflector:1.2.2" level="project" />
     <orderEntry type="library" name="Gradle: com.google.auto.value:auto-value-annotations:1.6.6" level="project" />
     <orderEntry type="library" name="Gradle: com.google.auth:google-auth-library-credentials:0.17.1" level="project" />
@@ -211,8 +211,8 @@
     <orderEntry type="library" name="Gradle: com.github.jnr:jnr-a64asm:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.jnr:jnr-x86asm:1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.24" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jffi:native:1.2.19" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.9.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jffi:native:1.2.19" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.9" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.9.9" level="project" />
     <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.2" level="project" />
