@@ -3,14 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/script_deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../category/script_deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../post/.gradle/" />
     <ignored path="$PROJECT_DIR$/../post/build/" />
@@ -57,7 +53,20 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="224" column="58" lean-forward="true" selection-start-line="224" selection-start-column="58" selection-end-line="224" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,7 +117,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../category" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../post" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,13 +136,9 @@
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/PostMediaService.java" />
         <option value="$PROJECT_DIR$/../post/build.gradle" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/jobs/ScheduledTasks.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostDocSerializable.java" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostDoc.java" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/IndexService.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/PostApplication.java" />
         <option value="$PROJECT_DIR$/../post/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/PostService.java" />
@@ -164,6 +169,10 @@
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" />
         <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
+        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java" />
+        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java" />
+        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java" />
       </list>
     </option>
   </component>
@@ -251,6 +260,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -261,7 +280,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579006243138" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579427324814" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -301,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CategoryApplication">
+  <component name="RunManager" selected="Application.PostApplication">
     <configuration name="CategoryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hp.category.CategoryApplication" />
       <module name="com.hp.category.main" />
@@ -369,8 +388,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CategoryApplication" />
         <item itemvalue="Application.PostApplication" />
+        <item itemvalue="Application.CategoryApplication" />
         <item itemvalue="Bash.script_deploy.sh" />
         <item itemvalue="Application.PublisherUtil" />
         <item itemvalue="Application.UserApplication" />
@@ -387,13 +406,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574337673692</updated>
-    </task>
-    <task id="LOCAL-00033" summary="elastic search - category tree">
-      <created>1576598895833</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1576598895833</updated>
     </task>
     <task id="LOCAL-00034" summary="elastic search - category tree">
       <created>1576604931159</created>
@@ -731,12 +743,55 @@
       <option name="project" value="LOCAL" />
       <updated>1579003803632</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="elastic search - category tree">
+      <created>1579420321197</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1579420321198</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34006462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.2503536" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.23903818" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.22065064" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.23338048" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" weight="0.12729844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34006462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -770,7 +825,7 @@
       <window_info anchor="right" id="Gradle" order="6" weight="0.32956383" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change" />
@@ -798,37 +853,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.2.0.RC2/da7d67901cbf044b663fa2c19151565cde5b39b9/spring-data-commons-2.2.0.RC2-sources.jar!/org/springframework/data/repository/CrudRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/pojo/PostRequestBody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/script_deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/Post.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -843,16 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="74" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="129" column="65" selection-start-line="129" selection-start-column="65" selection-end-line="129" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -950,13 +964,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisMode.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeCache.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1182,6 +1189,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="238" column="55" selection-start-line="238" selection-start-column="55" selection-end-line="238" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.8.2/dcdf237e8593193f4dad6c66bf8f9ef953077867/elasticsearch-6.8.2-sources.jar!/org/elasticsearch/index/query/BoolQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="139" column="28" selection-start-line="139" selection-start-column="28" selection-end-line="139" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="224" column="58" lean-forward="true" selection-start-line="224" selection-start-column="58" selection-end-line="224" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
