@@ -2,29 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/pojo/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserAccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jxls_jxls_2_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jxls_jxls_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.media.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.media.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryFilterMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryFilterMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryFilterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryFilterResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/script_deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../post/script_deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/util/ObjectConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/util/ObjectConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/BodyWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/BodyWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/../post/.gradle/" />
-    <ignored path="$PROJECT_DIR$/../post/build/" />
-    <ignored path="$PROJECT_DIR$/../post/out/" />
-    <ignored path="$PROJECT_DIR$/../category/.gradle/" />
-    <ignored path="$PROJECT_DIR$/../category/build/" />
-    <ignored path="$PROJECT_DIR$/../category/out/" />
-    <ignored path="$PROJECT_DIR$/../media/.gradle/" />
-    <ignored path="$PROJECT_DIR$/../media/build/" />
-    <ignored path="$PROJECT_DIR$/../media/out/" />
-    <ignored path="$PROJECT_DIR$/../user/.gradle/" />
-    <ignored path="$PROJECT_DIR$/../user/build/" />
-    <ignored path="$PROJECT_DIR$/../user/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,103 +51,6 @@
         </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="298" column="21" lean-forward="true" selection-start-line="298" selection-start-column="21" selection-end-line="299" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="240" column="61" selection-start-line="240" selection-start-column="61" selection-end-line="240" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryFilterResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/ParamValueValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="196" column="84" selection-start-line="196" selection-start-column="84" selection-end-line="196" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,304 +101,35 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../user" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../category" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTagRepo.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/docs/CategoryDoc.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/CategoryItem.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/ApiResponse.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/resources/es/es" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostMedia.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/repository/PostMediaRepository.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/PostMediaService.java" />
-        <option value="$PROJECT_DIR$/../post/build.gradle" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/jobs/ScheduledTasks.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostDocSerializable.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/PostDoc.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/IndexService.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/PostApplication.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/PostService.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/controller/PostController.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/entity/Post.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryResponse.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeCache.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/../category/build.gradle" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParameter.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/../post/script_deploy.sh" />
-        <option value="$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTagService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ThreadPoolConfiguration.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java" />
-        <option value="$PROJECT_DIR$/../category/script_deploy.sh" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamMapping.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryFilterMapping.java" />
-        <option value="$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryFilterResponse.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="698" />
   </component>
+  <component name="ProjectId" id="1ZRgSs2HPj5KzY22YU4l2Bi1kMk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="com.hp.user" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.hp" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="com.hp.user.main" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="request" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="response" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="category" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelpingPadosi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.hp" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="post" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579544289362" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579617125047" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.hp.category.service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../category/src/main/resources/sql" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration" />
@@ -509,29 +139,17 @@
       <recent name="$PROJECT_DIR$/../category/build/libs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hp.user.repository" />
+      <recent name="com.hp.user.entity" />
       <recent name="com.hp.post.service" />
       <recent name="com.hp.category.pojo" />
       <recent name="com.hp.category.service" />
-      <recent name="com.hp.category.repository" />
-      <recent name="com.hp.category.entity" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../category/src/main/resources/sql" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hp.category.service" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.CategoryApplication">
+  <component name="RunManager" selected="Application.UserApplication">
     <configuration name="CategoryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hp.category.CategoryApplication" />
       <module name="com.hp.category.main" />
@@ -607,6 +225,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -617,13 +247,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574337673692</updated>
-    </task>
-    <task id="LOCAL-00037" summary="elastic search - category tree">
-      <created>1576767444856</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1576767444856</updated>
     </task>
     <task id="LOCAL-00038" summary="elastic search - category tree">
       <created>1577003064352</created>
@@ -961,81 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1579544283880</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="elastic search - category tree">
+      <created>1579602871315</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1579602871316</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3513732" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="DB Browser" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Project Explorer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info id="Job Explorer" order="9" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.2503536" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.281471" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.38189533" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.19519095" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
-      <window_info anchor="bottom" id="Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" visible="true" weight="0.36350778" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.32956383" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34006462" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="DB Browser" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Project Explorer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info id="Job Explorer" order="9" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.2503536" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.35219237" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.37906647" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49919224" weight="0.23338048" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.1824611" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32956153" />
-      <window_info anchor="bottom" id="Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49919224" visible="true" weight="0.5884017" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.32956383" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change" />
@@ -1044,425 +601,59 @@
     <MESSAGE value="elastic search - category tree" />
     <option name="LAST_COMMIT_MESSAGE" value="elastic search - category tree" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1584814461995">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584814461995" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1584814461994">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584814461994" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1584814461993">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584814461993" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1584814461995">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584814461995" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java</url>
           <line>229</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/CategoryService.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java</url>
-          <line>198</line>
-          <properties />
-          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java</url>
           <line>125</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java</url>
           <line>127</line>
-          <properties />
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryTreeCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/PostApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/PostService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="77" column="74" lean-forward="true" selection-start-line="77" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryTagRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#2371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/ElasticSearchConfigurationAWS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration/DataSourceConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.8.2/dcdf237e8593193f4dad6c66bf8f9ef953077867/elasticsearch-6.8.2-sources.jar!/org/elasticsearch/index/query/BoolQueryBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="139" column="28" selection-start-line="139" selection-start-column="28" selection-end-line="139" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/script_deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../post/src/main/java/com/hp/post/service/SearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="209" column="26" lean-forward="true" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ElasticSearchConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#2482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.0.RC1/35a8fcd35ba0e924aad41b2aae3c32e29da23a03/spring-web-5.2.0.RC1-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryParameterRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/repository/CategoryRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/ThreadPoolConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/CategoryApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFormFieldTypeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="113" column="46" selection-start-line="113" selection-start-column="46" selection-end-line="113" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTagService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryValidationRuleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="168" selection-start-line="168" selection-end-line="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParamTypeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.0.RC1/ab9f9927f8f2d1886e9017736c0a2caf129570e4/spring-aop-5.2.0.RC1-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="661" selection-start-line="661" selection-end-line="661" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.2.0.RC1/207bbc3bd3e87b3b6e53465cab4e7a981718cf9b/spring-core-5.2.0.RC1-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="220" selection-start-line="220" selection-end-line="220" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.2.0.RC1/cac050cceb99a296200129e0a579d84b2b9c2876/spring-tx-5.2.0.RC1-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="346" selection-start-line="346" selection-end-line="346" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.0.RC1/ab9f9927f8f2d1886e9017736c0a2caf129570e4/spring-aop-5.2.0.RC1-sources.jar!/org/springframework/aop/support/AopUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="343" selection-start-line="343" selection-end-line="343" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/script_deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="166" selection-start-line="166" selection-end-line="166" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CacheService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryParamMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryTreeDataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryParamValueMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/ParamValueValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/entity/CategoryFilterMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="40" column="111" selection-start-line="40" selection-start-column="111" selection-end-line="40" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryFilterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="196" column="84" selection-start-line="196" selection-start-column="84" selection-end-line="196" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/mapper/CategoryFilterMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryFilterResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/service/CategoryParameterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="298" column="21" lean-forward="true" selection-start-line="298" selection-start-column="21" selection-end-line="299" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/response/CategoryParameterResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/controller/CategoryParameterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="240" column="61" selection-start-line="240" selection-start-column="61" selection-end-line="240" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/pojo/request/CategoryParameterRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
