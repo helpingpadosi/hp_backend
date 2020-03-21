@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="post:test" external.linked.project.path="$MODULE_DIR$/../../../post" external.root.project.path="$MODULE_DIR$/../../../post" external.system.id="GRADLE" external.system.module.group="com.hp" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output-test url="file://$MODULE_DIR$/../../../post/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../post/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../post/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../post/src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.8" level="project" />
     <orderEntry type="module" module-name="com.hp.post.main" />
     <orderEntry type="library" name="Gradle: com.google.cloud.sql:mysql-socket-factory-connector-j-8:1.0.15" level="project" />
     <orderEntry type="library" name="Gradle: com.google.cloud.sql:jdbc-socket-factory-core:1.0.15" level="project" />
@@ -226,8 +225,8 @@
     <orderEntry type="library" name="Gradle: com.github.jnr:jnr-x86asm:1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.24" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.9.9" level="project" />
-    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.9" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jffi:native:1.2.19" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.9" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.9.9" level="project" />
     <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.5.1" level="project" />
@@ -238,5 +237,5 @@
     <orderEntry type="library" name="Gradle: javax.validation:validation-api:2.0.1.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.grpc:grpc-context:1.19.0" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="com.hp.post.main" />
+  <component name="TestModuleProperties" production-module="post.main" />
 </module>
