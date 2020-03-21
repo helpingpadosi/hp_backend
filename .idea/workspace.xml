@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/pojo/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserAccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jxls_jxls_2_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jxls_jxls_2_8_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.category.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.category.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.media.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.media.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.user.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.hp.user.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/FirebaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/src/main/resources/google/helping-padosi-firebase-adminsdk-6hdis-8a9e86bae3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../post/script_deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../post/script_deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/util/ObjectConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../post/src/main/java/com/hp/post/util/ObjectConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../user/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/BodyWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/BodyWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +91,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../user" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://helpingpadosi@github.com/helpingpadosi/category_be.git" />
+        <option value="https://helpingpadosi@github.com/helpingpadosi/hp_backend.git" />
+        <option value="https://helpingpadosi@github.com/helpingpadosi/media_be.git" />
+        <option value="https://helpingpadosi@github.com/helpingpadosi/post_be.git" />
+        <option value="https://helpingpadosi@github.com/helpingpadosi/user_be.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
@@ -247,13 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574337673692</updated>
-    </task>
-    <task id="LOCAL-00038" summary="elastic search - category tree">
-      <created>1577003064352</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1577003064352</updated>
     </task>
     <task id="LOCAL-00039" summary="elastic search - category tree">
       <created>1577003554938</created>
@@ -591,8 +583,26 @@
       <option name="project" value="LOCAL" />
       <updated>1579602871316</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="elastic search - category tree">
+      <created>1584814470616</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1584814470617</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change" />
@@ -602,22 +612,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="elastic search - category tree" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1584814461995">
+    <state x="158" y="0" key="CommitChangelistDialog2" timestamp="1584814958633">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584814461995" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1584814461994">
+    <state x="158" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1584814958633" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1584814903152">
+      <screen x="0" y="23" width="1280" height="698" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.23.1280.698@0.23.1280.698" timestamp="1584814903152" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1584814837518">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584814461994" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1584814461993">
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584814837518" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1584814837516">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584814461993" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1584814461995">
+    <state width="1238" height="142" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584814837516" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1584814837515">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584814461995" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584814837515" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1584814837517">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584814837517" />
+    <state x="128" y="69" key="MergeDialog" timestamp="1584815000326">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="69" key="MergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1584815000326" />
+    <state x="353" y="124" key="MultipleFileMergeDialog" timestamp="1584815000359">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="353" y="124" key="MultipleFileMergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1584815000359" />
+    <state x="240" y="141" key="Vcs.Push.Dialog.v2" timestamp="1584814510016">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1584814510016" />
+    <state x="282" y="200" key="git4idea.merge.GitPullDialog" timestamp="1584814741447">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="282" y="200" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1584814741447" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -649,7 +683,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java</url>
-          <line>120</line>
+          <line>85</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
