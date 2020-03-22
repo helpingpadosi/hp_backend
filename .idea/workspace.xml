@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e78b53c-fdf7-446b-81c6-529049266efe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/OccupationRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration/DataSourceConfigurationMySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/UserApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/configuration/SecurityConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Hobby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Occupation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/Occupation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/VerifyTokenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/pojo/VerifyTokenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/entity/UserDetail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/HobbyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/HobbyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/OccupationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/OccupationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserAccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserAccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +57,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -123,7 +134,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579617125047" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -135,11 +146,11 @@
       <recent name="com.hp.category.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../user/src/main/java/com/hp/user/util" />
       <recent name="$PROJECT_DIR$/../category/src/main/java/com/hp/category/configuration" />
       <recent name="$PROJECT_DIR$/../post" />
       <recent name="$PROJECT_DIR$/../post/src/main/java/com/hp/post/configuration" />
       <recent name="$PROJECT_DIR$/../category/src/main/resources" />
-      <recent name="$PROJECT_DIR$/../category/build/libs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.hp.user.repository" />
@@ -250,13 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574337673692</updated>
-    </task>
-    <task id="LOCAL-00041" summary="elastic search - category tree">
-      <created>1577009723930</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1577009723930</updated>
     </task>
     <task id="LOCAL-00042" summary="elastic search - category tree">
       <created>1577011854500</created>
@@ -594,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584826862351</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Merge branch 'master' of https://github.com/helpingpadosi/user_be&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/com/hp/user/controller/UserController.java">
+      <created>1584828969499</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1584828969499</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -623,34 +634,58 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1584828339479" />
-    <state x="158" y="0" key="CommitChangelistDialog2" timestamp="1584826862006">
+    <state x="158" y="0" key="CommitChangelistDialog2" timestamp="1584828969203">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="158" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1584826862006" />
+    <state x="158" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1584828969203" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1584814903152">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.23.1280.698@0.23.1280.698" timestamp="1584814903152" />
-    <state width="1238" height="253" key="GridCell.Tab.0.bottom" timestamp="1584828960965">
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1584885163928">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="253" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584828960965" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584885163928" />
     <state width="1238" height="253" key="GridCell.Tab.0.bottom/0.23.1280.698@0.23.1280.698" timestamp="1584823537601" />
-    <state width="1238" height="253" key="GridCell.Tab.0.center" timestamp="1584828960963">
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.701@0.23.1280.701" timestamp="1584883809090" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1584885163926">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="253" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584828960963" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584885163926" />
     <state width="1238" height="253" key="GridCell.Tab.0.center/0.23.1280.698@0.23.1280.698" timestamp="1584823537600" />
-    <state width="1238" height="253" key="GridCell.Tab.0.left" timestamp="1584828960963">
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.701@0.23.1280.701" timestamp="1584883809087" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1584885163920">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="253" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584828960963" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584885163920" />
     <state width="1238" height="253" key="GridCell.Tab.0.left/0.23.1280.698@0.23.1280.698" timestamp="1584823537599" />
-    <state width="1238" height="253" key="GridCell.Tab.0.right" timestamp="1584828960964">
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.701@0.23.1280.701" timestamp="1584883809087" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1584885163927">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="253" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584828960964" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584885163927" />
     <state width="1238" height="253" key="GridCell.Tab.0.right/0.23.1280.698@0.23.1280.698" timestamp="1584823537601" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.701@0.23.1280.701" timestamp="1584883809149" />
+    <state width="1238" height="181" key="GridCell.Tab.1.bottom" timestamp="1584885163931">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584885163931" />
+    <state width="1238" height="181" key="GridCell.Tab.1.bottom/0.23.1280.701@0.23.1280.701" timestamp="1584883809092" />
+    <state width="1238" height="181" key="GridCell.Tab.1.center" timestamp="1584885163929">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1584885163929" />
+    <state width="1238" height="181" key="GridCell.Tab.1.center/0.23.1280.701@0.23.1280.701" timestamp="1584883809091" />
+    <state width="1238" height="181" key="GridCell.Tab.1.left" timestamp="1584885163928">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1584885163928" />
+    <state width="1238" height="181" key="GridCell.Tab.1.left/0.23.1280.701@0.23.1280.701" timestamp="1584883809091" />
+    <state width="1238" height="181" key="GridCell.Tab.1.right" timestamp="1584885163930">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1584885163930" />
+    <state width="1238" height="181" key="GridCell.Tab.1.right/0.23.1280.701@0.23.1280.701" timestamp="1584883809092" />
     <state x="128" y="69" key="MergeDialog" timestamp="1584815000326">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -659,10 +694,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="353" y="124" key="MultipleFileMergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1584815000359" />
-    <state x="240" y="141" key="Vcs.Push.Dialog.v2" timestamp="1584826866793">
+    <state x="240" y="141" key="Vcs.Push.Dialog.v2" timestamp="1584828972285">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1584826866793" />
+    <state x="240" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1584828972285" />
     <state x="435" y="186" key="chooseDestDirectoryDialog" timestamp="1584817408123">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -705,9 +740,9 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/controller/UserController.java</url>
-          <line>149</line>
-          <option name="timeStamp" value="44" />
+          <url>file://$PROJECT_DIR$/../user/src/main/java/com/hp/user/service/UserService.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
